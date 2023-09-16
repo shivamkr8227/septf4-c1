@@ -1,0 +1,37 @@
+* {
+  background-color: white;
+  color: black;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  font-size: large;
+}
+
+.main-div {
+  width: 250px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+
+.main-div h3 {
+  font-size: 20px;
+}
+
+.input input {
+  display: block;
+}
+
+.button button {
+  background-color: black;
+  color: white;
+  width: 40px;
+  height: 40px;
+}
+
+.success {
+  text-align: center;
+  display: block;
+}
+
+.error {
+  text-align: center;
+}
